@@ -9,4 +9,4 @@ texture 3618 {
 	detail { file "redrum_hrp/detail/3618_s.png" xscale 0.6 yscale 0.6 }
 }
 
-texture 3637 { pal 0 {file "redrum_hrp/textures/3637.png" } xscale 0.6 yscale 0.6 }
+texture 3637 { pal 0 {file "redrum_hrp/textures/3637.png" xscale 0.6 yscale 0.6 } }
