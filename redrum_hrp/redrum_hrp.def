@@ -1,0 +1,4 @@
+
+echo "Redrum HRP (beta 1)"
+
+include redrum_hrp/textures.def

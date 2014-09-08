@@ -1,0 +1,12 @@
+
+// Textures for Redrum HRP
+
+// Tiles014
+
+texture 3618 {
+	pal 0 { file "redrum_hrp/textures/3618.png" specpower 3 specfactor 0.1 }
+	normal { file "redrum_hrp/textures/3618_n.png" parallaxbias 0 parallaxscale 0.04 }
+	detail { file "redrum_hrp/detail/3618_s.png" xscale 0.6 yscale 0.6 }
+}
+
+texture 3637 { pal 0 {file "redrum_hrp/textures/3637.png" } xscale 0.6 yscale 0.6 }
