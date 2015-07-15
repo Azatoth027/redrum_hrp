@@ -15,3 +15,5 @@ texture 3618 {
 }
 
 texture 3637 { pal 0 { file "redrum/textures/3637.png" xscale 0.6 yscale 0.6 } }
+
+texture 3785 { pal 0 { file "redrum/textures/3785.png" xscale 0.55 yscale 0.55 } }
